@@ -1,0 +1,8 @@
+55
+You entered a string instead of an integer.
+-1
+30
+0
+You entered a string instead of an integer.
+You entered a string instead of an integer.
+64
